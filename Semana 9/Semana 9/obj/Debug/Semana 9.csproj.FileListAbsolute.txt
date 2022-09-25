@@ -1,0 +1,20 @@
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\bin\Debug\Semana 9.exe.config
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\bin\Debug\Semana 9.exe
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\bin\Debug\Semana 9.pdb
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.AssemblyReference.cache
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana_9.Form1.resources
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana_9.Properties.Resources.resources
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.GenerateResource.cache
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.CoreCompileInputs.cache
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana 9.exe
+C:\Users\luisb\Documents\C#\Semana 9\Semana 9\Semana 9\obj\Debug\Semana 9.pdb
+C:\Users\darkc\Desktop\Semana 9\Semana 9\bin\Debug\Semana 9.exe.config
+C:\Users\darkc\Desktop\Semana 9\Semana 9\bin\Debug\Semana 9.exe
+C:\Users\darkc\Desktop\Semana 9\Semana 9\bin\Debug\Semana 9.pdb
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.AssemblyReference.cache
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana_9.Form1.resources
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana_9.Properties.Resources.resources
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.GenerateResource.cache
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana 9.csproj.CoreCompileInputs.cache
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana 9.exe
+C:\Users\darkc\Desktop\Semana 9\Semana 9\obj\Debug\Semana 9.pdb
